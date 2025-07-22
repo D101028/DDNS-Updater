@@ -1,0 +1,15 @@
+{
+    "log-folder": "./log", 
+    "check-period": 30, 
+    "ip-fetchers": [
+        {
+            "type": "cmd-ip", 
+            "network-card-name": "ppp0"
+        }, 
+        {
+            "type": "net-access", 
+            "url": "https://api.ipify.org/"
+        }
+    ], 
+    "check-list": []
+}
