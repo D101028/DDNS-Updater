@@ -21,6 +21,8 @@ Make sure you have installed the python environment (> 3.10 recommanded).
     sudo /path/to/this/setup.sh
     ```
 
+More about the usage of this tool, checkout `python3 main.py -h`
+
 ## Config
 Example of `config.json`:
 ```json
