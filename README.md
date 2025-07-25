@@ -2,7 +2,7 @@
 A simple tool for updating DDNS automatically.
 
 ## Setup
-Make sure you have installed the python environment (> 3.10 recommanded). 
+Make sure you have installed the python environment (>= 3.10 recommanded). 
 
 1. Clone this repo. 
     ```bash
